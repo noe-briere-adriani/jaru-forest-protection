@@ -1,0 +1,17 @@
+﻿# Generated data: never published (labels, validation points, rasters, chips)
+data/
+
+# Working copies and scratch notebooks
+*_OLD.ipynb
+Untitled*.ipynb
+.ipynb_checkpoints/
+
+# Python and editor files
+__pycache__/
+*.pyc
+.vscode/
+.env
+
+# Windows
+Thumbs.db
+desktop.ini
